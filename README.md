@@ -1,3 +1,4 @@
+![Screenshot_20220116-192534](https://user-images.githubusercontent.com/85451025/158070163-f9962d87-9bd2-4eaa-a7c4-0f26f703b152.png)
 # data_scince_life_cycle
 #As data science I can fine tune a data science life cycle from data collection to deployment to production. You can go through the brief description of how I manage my projects which is of five set of  steps.
 
